@@ -1,6 +1,6 @@
 #include "alph.h"
 
-void printMas(int n, char **A)
+void printMas(int n, char A[1200][1200])
 {
     int i = 0;
     while(i <= n)

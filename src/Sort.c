@@ -1,6 +1,6 @@
 #include "alph.h"
 
-void sort(int n, char **A)
+void sort(int n, char A[1200][1200])
 {
   int k;
   char temp[1200];   
